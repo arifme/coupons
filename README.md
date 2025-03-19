@@ -1,0 +1,2 @@
+# coupons
+host.coupons
